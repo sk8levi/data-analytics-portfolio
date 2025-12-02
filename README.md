@@ -1,12 +1,12 @@
-# Data-Driven Marketing, Audience & Public Engagement Analytics  
+## Data-Driven Marketing, Audience & Public Engagement Analytics  
 
-## One-Sentence Summary
+### One-Sentence Summary
 I apply data analytics and natural language processing to measure and optimize how branding, media content, digital platforms, and public-interest campaigns influence consumer behavior, audience perception, and engagement.
 
-## One-Paragraph Summary
+### One-Paragraph Summary
 My analytical projects apply data science, NLP, and marketing analytics to understand how communication strategies and digital interventions shape real-world behavior. This includes predicting stock market movements using New York Times headlines through NLP models, analyzing how platform-specific ratings affect video game sales, designing digital voter outreach interventions for the New York City mayoral election, evaluating audience perceptions of AI-generated versus human-created art using A/B testing and ANCOVA, and conducting social media analytics for Love, Bonito. I also apply these methods in large-scale nonprofit fundraising and community engagement projects at PEER and Education Without Barriers. Across these projects, I integrate statistical modeling, experimental design, and marketing analytics to study behavior in commercial, civic, and public-interest contexts.
 
-## 1. Research & Analytical Focus
+### 1. Research & Analytical Focus
 My work sits at the intersection of:
 - Marketing & Growth Analytics
 - Natural Language Processing
@@ -20,35 +20,35 @@ My work sits at the intersection of:
 - How can data optimize marketing, fundraising, and engagement strategies?
 - How do audiences perceive AI versus human creativity?
 
-## 2. Analytical & Technical Methods
+### 2. Analytical & Technical Methods
 
-### Data Science & Modeling
+#### Data Science & Modeling
 - OLS Regression, Interaction Models  
 - ANCOVA  
 - A/B Testing & Experimental Design  
 - Survey-Based Inference  
 - Causal & Behavioral Analysis  
 
-### NLP & Text Analytics
+#### NLP & Text Analytics
 - Tokenization  
 - TF-IDF  
 - Sentiment Analysis  
 - Supervised Classification  
 - Financial News Prediction  
 
-### Marketing & Platform Analytics
+#### Marketing & Platform Analytics
 - Content Coding  
 - Engagement Rate Analysis  
 - Competitor Benchmarking  
 - Brand Positioning Analytics  
 
-### Tools & Stack
+#### Tools & Stack
 - Programming: Python, R, SQL  
 - Visualization: Tableau  
 - Marketing & Social Analytics: Keyhole, Brand24, RivalIQ  
 - Statistics: Regression, ANCOVA, A/B Testing  
 
-## 3. Core Analytical Projects
+### 3. Core Analytical Projects
 
 ### 3.1 NYT Headlines and Stock Market Prediction (NLP Project)
 **Objective:**  
