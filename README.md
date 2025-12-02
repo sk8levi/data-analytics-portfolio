@@ -1,9 +1,5 @@
 ### Data-Driven Marketing, Audience & Public Engagement Analytics  
 
-### One-Sentence Summary
-I apply data analytics and natural language processing to measure and optimize how branding, media content, digital platforms, and public-interest campaigns influence consumer behavior, audience perception, and engagement.
-
-### One-Paragraph Summary
 My analytical projects apply data science, NLP, and marketing analytics to understand how communication strategies and digital interventions shape real-world behavior. This includes predicting stock market movements using New York Times headlines through NLP models, analyzing how platform-specific ratings affect video game sales, designing digital voter outreach interventions for the New York City mayoral election, evaluating audience perceptions of AI-generated versus human-created art using A/B testing and ANCOVA, and conducting social media analytics for Love, Bonito. I also apply these methods in large-scale nonprofit fundraising and community engagement projects at PEER and Education Without Barriers. Across these projects, I integrate statistical modeling, experimental design, and marketing analytics to study behavior in commercial, civic, and public-interest contexts.
 
 ### 1. Research & Analytical Focus
@@ -23,7 +19,7 @@ My work sits at the intersection of:
 ### 2. Analytical & Technical Methods
 
 #### Data Science & Modeling
-- OLS Regression, Interaction Models  
+- OLS Regression, Machine Learning Models  
 - ANCOVA  
 - A/B Testing & Experimental Design  
 - Survey-Based Inference  
@@ -33,14 +29,13 @@ My work sits at the intersection of:
 - Tokenization  
 - TF-IDF  
 - Sentiment Analysis  
-- Supervised Classification  
-- Financial News Prediction  
+- Supervised Classification   
 
 #### Marketing & Platform Analytics
 - Content Coding  
 - Engagement Rate Analysis  
 - Competitor Benchmarking  
-- Brand Positioning Analytics  
+- Brand Marketing Analytics  
 
 #### Tools & Stack
 - Programming: Python, R, SQL  
@@ -64,11 +59,6 @@ Predict short-term stock market direction using linguistic patterns in New York 
 - News sentiment intensity and topic clusters contain statistically meaningful predictive signals  
 - Financial media language acts as a behavioral information channel for markets  
 
-**Skills Demonstrated:**  
-NLP, text preprocessing, supervised learning, financial analytics, prediction modeling  
-
----
-
 #### 3.2 Video Game Sales and Platform-Specific Ratings (Independent Research)
 **Objective:**  
 Examine how critic and user ratings affect video game sales differently across Nintendo, PlayStation, and PC platforms.
@@ -84,9 +74,6 @@ Examine how critic and user ratings affect video game sales differently across N
 - User scores play a larger role in PC demand  
 - Evidence of platform-specific rating elasticities  
 
-**Skills Demonstrated:**  
-Econometrics, platform economics, marketing analytics, interaction modeling  
-
 #### 3.3 NYC Mayoral Election Digital Intervention (Quantitative Project)
 **Objective:**  
 Test whether peer-to-peer digital voter outreach increases participation.
@@ -99,10 +86,7 @@ Test whether peer-to-peer digital voter outreach increases participation.
 
 **Key Findings:**  
 - Demonstrates effectiveness of data-driven mobilization  
-- Shows how digital networks amplify political engagement  
-
-**Skills Demonstrated:**  
-Field experiment design, behavioral analytics, causal inference, civic data analysis  
+- Shows how digital networks amplify political engagement   
 
 #### 3.4 AI Art Perception Study (Audience A/B Testing & Perception Analytics)
 **Objective:**  
@@ -120,9 +104,6 @@ Compare public perceptions of AI-generated vs. human-created art and identify de
 - Audience evaluations of creativity are systematically shaped by AI familiarity and exposure  
 - Provides empirical implications for AI branding and creative industry strategy  
 
-**Skills Demonstrated:**  
-A/B testing, experimental design, audience analytics, statistical inference  
-
 #### 3.5 Love, Bonito Brand Analytics (Marketing & Social Media Analytics)
 **Objective:**  
 Evaluate Love, Bonito’s brand performance and competitive positioning on Instagram and TikTok.
@@ -137,15 +118,11 @@ Evaluate Love, Bonito’s brand performance and competitive positioning on Insta
 - Identified content formats and narrative styles driving higher engagement  
 - Revealed brand positioning gaps and growth opportunities in social commerce  
 
-**Skills Demonstrated:**  
-Marketing analytics, social media data analysis, brand strategy evaluation  
-
 #### 3.6 PEER (NGO) Digital Fundraising & Engagement Analytics
 **Objective:**  
 Optimize volunteer recruitment and donor engagement through data-driven nonprofit communication strategies.
 
 **Methods & Work:**  
-- Recruitment funnel tracking for 11 schools across Hunan, Guizhou, Guangxi  
 - Monthly donor engagement content optimization  
 - Campaign design with corporate donors (e.g., McKinsey)  
 - Visual performance optimization for Alipay “Ant Forest” campaigns  
@@ -154,9 +131,6 @@ Optimize volunteer recruitment and donor engagement through data-driven nonprofi
 - Strengthened monthly recurring donation behavior  
 - Increased volunteer recruitment efficiency  
 - Improved visual and brand coherence across platforms  
-
-**Skills Demonstrated:**  
-Fundraising analytics, conversion optimization, nonprofit marketing strategy  
 
 #### 3.7 Education Without Barriers (NGO) & Public Engagement & Growth Analytics
 **Objective:**  
@@ -168,10 +142,7 @@ Scale nonprofit visibility, recruitment, and public education through precision 
 - Multi-campaign analytics (Father’s Day, Book an Expert, etc.)  
 
 **Additional Contribution:**  
-- Public lecture: Algorithms & Platform Operations (Digital literacy education)  
-
-**Skills Demonstrated:**  
-Growth analytics, platform strategy, public-interest communication  
+- Public lecture: Algorithms & Platform Operations (Digital literacy education)
 
 ### 4. Practical Applications
 - Marketing & Growth Analytics  
@@ -181,17 +152,11 @@ Growth analytics, platform strategy, public-interest communication
 - Civic Technology & Nonprofit Fundraising Analytics  
 - Well-being & Public Engagement Programs  
 
-### 5. Professional Skill Summary
+### 5. Professional Skill
 - Marketing & Audience Analytics  
 - Natural Language Processing (NLP)  
 - Regression, ANCOVA & Experimental Design  
 - A/B Testing & Survey Methodology  
 - Sentiment Analysis & Social Media Analytics  
 - Data Visualization (Tableau)  
-- Strategic Communication & Campaign Optimization  
-
-### 6. Future Directions
-- Financial NLP models to multi-source media ecosystems  
-- AI perception analytics in branding and creative industries  
-- Long-term data-driven fundraising and engagement optimization in nonprofit and well-being programs  
-
+- Strategic Communication & Campaign Optimization
