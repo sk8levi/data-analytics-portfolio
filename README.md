@@ -1,4 +1,4 @@
-## Data-Driven Marketing, Audience & Public Engagement Analytics  
+### Data-Driven Marketing, Audience & Public Engagement Analytics  
 
 ### One-Sentence Summary
 I apply data analytics and natural language processing to measure and optimize how branding, media content, digital platforms, and public-interest campaigns influence consumer behavior, audience perception, and engagement.
@@ -50,7 +50,7 @@ My work sits at the intersection of:
 
 ### 3. Core Analytical Projects
 
-### 3.1 NYT Headlines and Stock Market Prediction (NLP Project)
+#### 3.1 NYT Headlines and Stock Market Prediction (NLP Project)
 **Objective:**  
 Predict short-term stock market direction using linguistic patterns in New York Times financial and macroeconomic headlines.
 
@@ -69,7 +69,7 @@ NLP, text preprocessing, supervised learning, financial analytics, prediction mo
 
 ---
 
-### 3.2 Video Game Sales and Platform-Specific Ratings (Independent Research)
+#### 3.2 Video Game Sales and Platform-Specific Ratings (Independent Research)
 **Objective:**  
 Examine how critic and user ratings affect video game sales differently across Nintendo, PlayStation, and PC platforms.
 
@@ -87,9 +87,7 @@ Examine how critic and user ratings affect video game sales differently across N
 **Skills Demonstrated:**  
 Econometrics, platform economics, marketing analytics, interaction modeling  
 
----
-
-### 3.3 NYC Mayoral Election Digital Intervention (Quantitative Project)
+#### 3.3 NYC Mayoral Election Digital Intervention (Quantitative Project)
 **Objective:**  
 Test whether peer-to-peer digital voter outreach increases participation.
 
@@ -106,9 +104,7 @@ Test whether peer-to-peer digital voter outreach increases participation.
 **Skills Demonstrated:**  
 Field experiment design, behavioral analytics, causal inference, civic data analysis  
 
----
-
-### 3.4 AI Art Perception Study (Audience A/B Testing & Perception Analytics)
+#### 3.4 AI Art Perception Study (Audience A/B Testing & Perception Analytics)
 **Objective:**  
 Compare public perceptions of AI-generated vs. human-created art and identify determinants of creativity judgments.
 
@@ -127,9 +123,7 @@ Compare public perceptions of AI-generated vs. human-created art and identify de
 **Skills Demonstrated:**  
 A/B testing, experimental design, audience analytics, statistical inference  
 
----
-
-### 3.5 Love, Bonito Brand Analytics (Marketing & Social Media Analytics)
+#### 3.5 Love, Bonito Brand Analytics (Marketing & Social Media Analytics)
 **Objective:**  
 Evaluate Love, Bonito’s brand performance and competitive positioning on Instagram and TikTok.
 
@@ -146,9 +140,7 @@ Evaluate Love, Bonito’s brand performance and competitive positioning on Insta
 **Skills Demonstrated:**  
 Marketing analytics, social media data analysis, brand strategy evaluation  
 
----
-
-### 3.6 PEER (NGO) Digital Fundraising & Engagement Analytics
+#### 3.6 PEER (NGO) Digital Fundraising & Engagement Analytics
 **Objective:**  
 Optimize volunteer recruitment and donor engagement through data-driven nonprofit communication strategies.
 
@@ -166,9 +158,7 @@ Optimize volunteer recruitment and donor engagement through data-driven nonprofi
 **Skills Demonstrated:**  
 Fundraising analytics, conversion optimization, nonprofit marketing strategy  
 
----
-
-### 3.7 Education Without Barriers (NGO) & Public Engagement & Growth Analytics
+#### 3.7 Education Without Barriers (NGO) & Public Engagement & Growth Analytics
 **Objective:**  
 Scale nonprofit visibility, recruitment, and public education through precision content strategies.
 
@@ -183,9 +173,7 @@ Scale nonprofit visibility, recruitment, and public education through precision 
 **Skills Demonstrated:**  
 Growth analytics, platform strategy, public-interest communication  
 
----
-
-## 4. Practical Applications
+### 4. Practical Applications
 - Marketing & Growth Analytics  
 - Brand & Platform Strategy  
 - Financial Media Analytics  
@@ -193,7 +181,7 @@ Growth analytics, platform strategy, public-interest communication
 - Civic Technology & Nonprofit Fundraising Analytics  
 - Well-being & Public Engagement Programs  
 
-## 5. Professional Skill Summary
+### 5. Professional Skill Summary
 - Marketing & Audience Analytics  
 - Natural Language Processing (NLP)  
 - Regression, ANCOVA & Experimental Design  
@@ -202,7 +190,7 @@ Growth analytics, platform strategy, public-interest communication
 - Data Visualization (Tableau)  
 - Strategic Communication & Campaign Optimization  
 
-## 6. Future Directions
+### 6. Future Directions
 - Financial NLP models to multi-source media ecosystems  
 - AI perception analytics in branding and creative industries  
 - Long-term data-driven fundraising and engagement optimization in nonprofit and well-being programs  
