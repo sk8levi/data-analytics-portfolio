@@ -37,7 +37,7 @@ My work sits at the intersection of:
 - Competitor Benchmarking  
 - Brand Marketing Analytics  
 
-#### Tools & Stack
+#### Skills & Tools
 - Programming: Python, R, SQL  
 - Visualization: Tableau  
 - Marketing & Social Analytics: Keyhole, Brand24, RivalIQ  
